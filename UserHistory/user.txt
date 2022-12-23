@@ -1,0 +1,25 @@
+
+Dec  4 2021
+ 
+Phone  ---> 8604470501
+
+Address  ---> varansi 
+
+State   ---> Uttar Pradesh
+
+City   ---> Varanasi
+
+About   ---> 0
+
+Skills   ---> Web Dev. , c, python, javascript
+
+Email   ---> himanshu399231@gmail.com
+
+D.O.B  ---> 15/06/2000
+
+Father`s Name  ---> Sk Sharma
+
+Last Name  ---> Sharma
+
+*First Name  ---> Himanshu 
+---END---
